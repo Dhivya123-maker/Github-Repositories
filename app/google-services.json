@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610454201286",
+    "project_id": "nextlabtask",
+    "storage_bucket": "nextlabtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610454201286:android:cc5eafa3287f5aaa5688c7",
+        "android_client_info": {
+          "package_name": "com.example.nextgrowthlabstask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADvLumLbIoSMjwSldjKfMyo3RlURl0GtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
